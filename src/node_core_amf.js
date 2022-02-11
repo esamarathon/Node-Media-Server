@@ -966,6 +966,7 @@ const rtmpDataCode = {
   '@setDataFrame': ['method', 'dataObj'],
   'onFI': ['info'],
   'onMetaData': ['dataObj'],
+  'additionalMedia': ['dataObj'],
   '|RtmpSampleAccess': ['bool1', 'bool2'],
 };
 
